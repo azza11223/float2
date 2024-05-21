@@ -1,0 +1,15 @@
+.box {
+    width: 232px;
+    height: 297px;
+    top: 9px;
+    border: 1px solid 
+    rgba(204, 204, 204, 1);
+    overflow-x: scroll;
+    float: left;
+}
+img{
+    width: 560px;
+    height: 646.53px;
+    float: right;
+
+}
